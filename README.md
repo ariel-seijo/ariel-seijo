@@ -1,8 +1,6 @@
-<h1 align="center">Hey! 👋 Soy Ariel</h1>
+<h2 align="center">Hey! 👋 Soy Ariel</h1>
 
 ###
-
-<br clear="both">
 
 <h4 align="center">Técnico Desarrollador de Software 👨🏼‍💻<br>Apasionado por la tecnología y el gaming 🎮<br>Acariciador profesional de gatos callejeros 🐈‍⬛</h4>
 
@@ -47,8 +45,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">⬇️ Visita mi último proyecto ⬇️</h3>
 
 ###
@@ -60,8 +56,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
