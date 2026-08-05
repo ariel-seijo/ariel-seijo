@@ -5,11 +5,13 @@
 <h4 align="center">Técnico Desarrollador de Software 👨🏼‍💻<br>Apasionado por la tecnología y el gaming 🎮<br>Acariciador profesional de gatos callejeros 🐈‍⬛</h4>
 
 ###
-
-<div align="center">
+<h2 align="center">Stack Principal</h2>
+<div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="25" alt="astro logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="1" />
@@ -21,6 +23,25 @@
 </div>
 
 ###
+<h2 align="center">Otras tecnologías</h2>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="25" alt="spring logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="25" alt="fastapi logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="25" alt="githubactions logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="25" alt="graphql logo"  />
+</div>
+
+###
+<h2 align="center">Links</h2>
 
 <div align="center">
   <a href="https://ariel-seijo.vercel.app" target="_blank">
